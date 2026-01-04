@@ -90,29 +90,32 @@ novatech-digital-agency/
 
 ---
 
-📌 Use Case
+## 📌 Use Case
 
--This project is suitable for:
+This project is suitable for:
 
--Frontend portfolio showcase
+- Frontend portfolio showcase  
+- Freelance client demos  
+- UI/UX case studies  
+- Practice with real-world website structure  
 
--Freelance client demos
+---
 
--UI/UX case studies
+## 📜 Concept Disclaimer
 
--Practice with real-world website structure
+All testimonials, brand names, and business details used in this project are **fictional** and included only for demonstration purposes.
 
-📜 Concept Disclaimer
+---
 
-All testimonials, brand names, and business details used in this project are fictional and included only for demonstration purposes.
+## 👨‍💻 Author
 
-👨‍💻 Author
-
-Vicky
-Frontend Developer
-Skilled in HTML, CSS & JavaScript
+**Vicky**  
+Frontend Developer  
+Skilled in HTML, CSS & JavaScript  
 📍 India
 
-⭐ Feedback
+---
+
+## ⭐ Feedback
 
 If you found this project useful or inspiring, feel free to ⭐ the repository or share feedback.
